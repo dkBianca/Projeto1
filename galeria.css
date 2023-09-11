@@ -18,7 +18,7 @@ body {
 .gallery img {
      width: 290px;
      height: 290px;
-     margin: 20px;
+     margin: 15px;
      cursor: pointer;
      transition: transform 0.3s;
      border-radius: 5%;
