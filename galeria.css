@@ -21,8 +21,8 @@ body {
      margin: 20px;
      cursor: pointer;
      transition: transform 0.3s;
-     border-radius: 2%;
-     border-radius: 2%;
+     border-radius: 5%;
+     border-radius: 5%;
      border-color: bisque;
 }
 
