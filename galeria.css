@@ -1,10 +1,12 @@
 body {
     font-family: Arial, sans-serif;
 }
+
 .titulo {
-background-color: bisque;
-height: 30%;
+     background-color: rgb(248, 237, 221);
+     height: 30%;
 }
+
 
 .gallery {
     display: flex;
