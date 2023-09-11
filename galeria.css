@@ -12,7 +12,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: aliceblue;
+    background-color: rgb(248, 237, 221);
 }
 
 .gallery img {
