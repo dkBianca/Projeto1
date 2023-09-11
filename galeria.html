@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+    <link rel="stylesheet" href="galeria.css">
+    <title>galeria</title>
+</head>
+<div class="titulo">
+    <h1 align="center"> Relatório de visita técnica ao IFRO- Campus Colorado</h1>    
+</div>
+<div>
+    No dia 9 de agosto de 2023, os alunos do Campus Vilhena, em Rondônia, realizaram uma visita técnica ao Instituto Federal de Rondônia - Campus Colorado. A visita teve início às 10 horas da manhã e terminou às 16 horas da tarde.
+    O objetivo da visita foi proporcionar aos alunos uma experiência prática na área de agronomia. Eles puderam observar, de perto, os processos de cultivo de vegetais e criação de animais, além de aprender sobre os projetos desenvolvidos no campus.
+    Após a chegada, os alunos foram recebidos pelos professores e técnicos do campus. Em seguida, participaram de uma palestra sobre os projetos desenvolvidos no local, como a oficina de fotografia, que incentiva os alunos a explorar o campus através da fotografia.       
+    Em seguida, os alunos foram divididos em grupos para visitar as áreas de produção vegetal e animal. Na área de produção vegetal, eles aprenderam sobre os diferentes tipos de solo e as técnicas de cultivo de vegetais. Na área de produção animal, eles visitaram 
+    os setores de bovinos, suínos e aves, onde puderam conhecer os diferentes tipos de instalações e equipamentos utilizados para a criação desses animais.
+    A visita técnica foi encerrada com uma fotografia de toda a turma, que agradeceu a receptividade e os conhecimentos transmitidos pelo Campus Colorado.
+</div>
+<body>
+    
+<div class="gallery">
+     <img src="img1.jpeg" alt="Imagem 1" onclick="openModal('img1.jpeg')">
+     <img src="img2.jpeg" alt="Imagem 2" onclick="openModal('img2.jpeg')">
+     <img src="img3.jpeg" alt="Imagem 3" onclick="openModal('img3.jpeg')">
+     <img src="img4.jpeg" alt="Imagem 4" onclick="openModal('img4.jpeg')">
+     <img src="img5.jpeg" alt="Imagem 5" onclick="openModal('img5.jpeg')">
+     <img src="img6.jpeg" alt="Imagem 6" onclick="openModal('img6.jpeg')">
+     <img src="img7.jpeg" alt="Imagem 7" onclick="openModal('img7.jpeg')">
+     <img src="img8.jpeg" alt="Imagem 8" onclick="openModal('img8.jpeg')">
+     <img src="img9.jpeg" alt="Imagem 9" onclick="openModal('img9.jpeg')">
+     <img src="img10.jpeg" alt="Imagem 10" onclick="openModal('img10.jpeg')">
+</div>
+
+<div id="myModal" class="modal">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <span class="next" onclick="nextImage()">&#10095;</span>
+    <img class="modal-content" id="modalImage">
+</div>
+<script src="galeria.js"></script>
+</body>
+</html>
