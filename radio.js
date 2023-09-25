@@ -4,7 +4,7 @@ let musicas = [
     {titulo:'fOol fOr YoU', artista:'Zayn', src:'mscRadio/zayn- fool for you.mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'Ballroom Extravaganza', artista:'DPR IAN', src:'mscRadio/DPR IAN - Ballroom Extravaganza.mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'Nerves', artista:'DPR IAN', src:'mscRadio/SnapInsta.io-DPR IAN - Nerves (OFFICIAL M_V).mp3', img:'imgRadio/iradio.jpg'},
-    {titulo:'Diamonds and Pearls', artista:'DPR IAN', src:'mscRadio/SnapInsta.io-DPR LIVE, DPR IAN, peace. - Diamonds   and Pearls (Official M_V).mp3', img:'imgRadio/iradio.jpg'},
+    {titulo:'Painkiller', artista:'RUEL', src:'mscRadio/SnapInsta.io - Ruel - Painkiller (Official Video) (128 kbps).mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'007', artista:'Tabber', src:'mscRadio/SnapInsta.io-007 (feat. Syd)(720p).mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'Gimme Love', artista:'Joji', src:'mscRadio/SnapInsta.io-Joji - Gimme Love (Official Video).mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'SLOW DANCING IN THE DARK', artista:'Joji', src:'mscRadio/SnapInsta.io-Joji - SLOW DANCING IN THE DARK.mp3', img:'imgRadio/iradio.jpg'},
