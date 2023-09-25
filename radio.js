@@ -1,5 +1,5 @@
 let musicas = [
-    {titulo:'No Blueberries', artista:'DPR IAN', src:'music/DPR IAN - No Blueberries (ft. DPR LIVE, CL).mp3', img:'imgRadio/iradio.jpg'},
+    {titulo:'Die For You', artista:'Joji', src:'mscRadio/SnapInsta.io - Joji - Die For You (128 kbps).mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'So I Danced', artista:'DPR IAN', src:'music/DPR IAN - So I Danced.mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'fOol fOr YoU', artista:'Zayn', src:'music/zayn- fool for you.mp3', img:'imgRadio/iradio.jpg'},
     {titulo:'Ballroom Extravaganza', artista:'DPR IAN', src:'music/DPR IAN - Ballroom Extravaganza.mp3', img:'imgRadio/iradio.jpg'},
