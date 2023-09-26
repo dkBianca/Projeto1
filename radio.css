@@ -86,7 +86,7 @@ progress {
   width: 400px;
   height: 650px;
   margin: 10px;
-  box-shadow: 0 1px 10px gray;
+  box-shadow: 0 1px 10px rgb(18, 2, 107);
   padding: 8px;
   border-radius: 5px;
 }
